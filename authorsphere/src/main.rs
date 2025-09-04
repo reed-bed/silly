@@ -19,7 +19,7 @@ use authorsphere::author_tools::AuthorID;
 
 fn main() {
     // get collaborator network
-    let root_id = AuthorID::RefID("2661269".to_string());
+    let root_id = AuthorID::RefID("1006450".to_string());
 
     // see if we saved any useful data already
     let mut tab_buffer = String::new();
