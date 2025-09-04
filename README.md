@@ -1,2 +1,2 @@
 # silly
-silly things i've put together
+Silly things I've put together

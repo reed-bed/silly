@@ -1,0 +1,1 @@
+Undergraduate assignment I came up with: a simple terminal-based 3d rendering engine. In this incarnation, it renders a spinning tetrahedron. Appears elsewhere on the internet as 'unreliable tetrahedron renderer'.
